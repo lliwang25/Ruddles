@@ -6,7 +6,7 @@
 React + Vite + Tailwind CSS
 
 ### Back end
-FASTAPI Backend 
+FASTAPI Backend + Heroku
 
 
 ### Riddle System
@@ -21,3 +21,4 @@ FASTAPI Backend
 
 ### Hard
 1. Where they are from
+2. 
